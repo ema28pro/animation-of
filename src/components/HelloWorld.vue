@@ -1,4 +1,3 @@
-<!-- filepath: src/components/HelloWorld.vue -->
 <template>
     <div class="hello">
         <div id="demo">
